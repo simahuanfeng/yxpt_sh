@@ -144,7 +144,6 @@ public class WithdrawScashActivity extends BaseActivity{
                         setData(cardinfo);
                     }
                 }else{
-
                 }
             }
   
