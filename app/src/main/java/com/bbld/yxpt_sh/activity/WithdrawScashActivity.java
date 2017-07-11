@@ -145,7 +145,6 @@ public class WithdrawScashActivity extends BaseActivity{
                     }
                 }else{
 
-
                 }
             }
   
